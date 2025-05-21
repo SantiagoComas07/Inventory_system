@@ -5,14 +5,14 @@
 This is a system to manipulate products in a inventary. the way to use this system is opening the terminal and then opening the system, you will get a menu with the next opcion: 
 
     
-                   -------------  System of inventary  ------------
+                   ---------------  Inventary System  --------------
                    - Add product                                 (1)
                    - search product                              (2)
                    - Update cost of the product                  (3)
                    - delete product of inventary                 (4)
                    - Calculate the general cost of the inventary (5)
                    - Exit                                        (6)
-                   ------------------------------------------------
+                   -------------------------------------------------
     
 You must choose an option writing one of the numbers.
 
